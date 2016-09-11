@@ -1,2 +1,2 @@
-- [x] `naive_oculus`
-- [ ] `systems_spin`
+- [ ] `naive_oculus`
+- [x] `systems_spin`
