@@ -1,4 +1,2 @@
-live|thread|spinneret
----|---|---
-[ ]|oculus|naiveoculus
-[ ]|systems|systems_spin
+- [x] `naive_oculus`
+- [ ] `systems_spin`
