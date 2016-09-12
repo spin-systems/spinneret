@@ -1,2 +1,8 @@
+- [ ] `appendens`
+- [ ] `biochemistries`
+- [ ] `GolangAbridged`
+- [ ] `JuliaFeeds`
+- [ ] `naivelocus`
+- [ ] `permutans`
 - [ ] `naive_oculus`
 - [x] `systems_spin`
