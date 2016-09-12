@@ -1,8 +1,11 @@
 - [ ] `appendens`
 - [ ] `biochemistries`
+- [ ] `F_de_Saussure`
 - [ ] `GolangAbridged`
 - [ ] `JuliaFeeds`
 - [ ] `naivelocus`
+- [ ] `naiveoculus`
+- [ ] `NAlogical`
 - [ ] `permutans`
-- [ ] `naive_oculus`
-- [x] `systems_spin`
+- [ ] `ruinoto`
+- [ ] `systems_spin`
